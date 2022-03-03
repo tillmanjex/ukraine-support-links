@@ -5,33 +5,33 @@ Although I check every link myself, I cannot take any liability for information 
 Please use at your own discretion.        
 I'm just collecting what I find / what's sent to me in the hope of creating a repository of useful information for referencing and sharing.  
 
-If you want to get in contact, please do so via: <a href="mailto:ukraine-links@mailbox.org">ukraine-links@mailbox.org</a>
+If you want to get in contact, please do so via: [ukraine-links@mailbox.org](mailto:ukraine-links@mailbox.org)
 
-<a href="http://translate.google.com/translate?js=n&sl=auto&tl=uk&u=https://tillmanjex.github.io/Ukraine-support-links/">Перекладіть весь цей веб-сайт українською мовою за допомогою Google Translate </a>
+[Перекладіть весь цей веб-сайт українською мовою за допомогою Google Translate.](http://translate.google.com/translate?js=n&sl=auto&tl=uk&u=https://tillmanjex.github.io/Ukraine-support-links/)
 
 # If You Need Help
 ## Travel
-- Telegram group - arrivals from Ukraine in Berlin: <a href="https://t.me/ukraineberlinarrivalsupport">https://t.me/ukraineberlinarrivalsupport</a>   
-- Ukranian border crossing map: <a href="https://dpsu.gov.ua/en/map">https://dpsu.gov.ua/en/map</a>
-- [Ukrainenow.org](https://www.ukrainenow.org/refuge)
+- Telegram group - arrivals from Ukraine in Berlin: [https://t.me/ukraineberlinarrivalsupport](https://t.me/ukraineberlinarrivalsupport)
+- Ukranian border crossing map: [https://dpsu.gov.ua/en/map](https://dpsu.gov.ua/en/map)
+- [Ukrainenow.org/refuge](https://www.ukrainenow.org/refuge)
 
 ## Accomodation
-- <a href="https://docs.google.com/spreadsheets/d/1yc4aHGTkGnX3O5_hdvUK36iMGCL60NIr40NlwL4pMYA/edit#gid=0">Community Google sheet: Short term rooms available in private homes (Berlin)</a>
+- [Community Google sheet: Short term rooms available in private homes (Berlin)](https://docs.google.com/spreadsheets/d/1yc4aHGTkGnX3O5_hdvUK36iMGCL60NIr40NlwL4pMYA/edit#gid=0)
 
 ## LGBT
-- LGBT Military - <a href="https://lgbtmilitary.org.ua/">https://lgbtmilitary.org.ua/</a>
+- LGBT Military: [https://lgbtmilitary.org.ua/](https://lgbtmilitary.org.ua/)
 
 ## Other Link / Information Collections
-- <a href="https://docs.google.com/document/d/1ng3-JK_kuwS7CBlLiPEOlf_VoVkiUf-niBxqguRwxWM/edit">Comprehensive Google document written in Ukranian</a>
+- [Comprehensive Google document written in Ukranian](https://docs.google.com/document/d/1ng3-JK_kuwS7CBlLiPEOlf_VoVkiUf-niBxqguRwxWM/edit)
 
 
 # If You Want To Help
 
 ## Accomodation
-- <a href="https://wunderflats.com/page/ukraine/landlords-who-help-en">Wunderflats (Germany)</a>   
-- <a href="https://docs.google.com/forms/d/e/1FAIpQLScbNEpZ_wy63lRNiwWR7BXeEoH7VC4ulhI725Qc14JUutjH9Q/viewform">Private Google Form (Germany)</a>
+- Wunderflats (Germany): [https://wunderflats.com/page/ukraine/landlords-who-help-en](https://wunderflats.com/page/ukraine/landlords-who-help-en)
+- [Private Google Form (Germany)](https://docs.google.com/forms/d/e/1FAIpQLScbNEpZ_wy63lRNiwWR7BXeEoH7VC4ulhI725Qc14JUutjH9Q/viewform)
 
 ## Link Directories
-- <a href="https://linktr.ee/voiceforukraine">Linktree: Voice For Ukraine</a>    
-- <a href="https://linktr.ee/ukrainehelpberlin">Ukraine Help Berlin</a>
+- [Linktree: Voice For Ukraine](https://linktr.ee/voiceforukraine)
+- [Ukraine Help Berlin](https://linktr.ee/ukrainehelpberlin)
 
