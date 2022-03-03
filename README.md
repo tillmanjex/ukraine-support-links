@@ -12,23 +12,23 @@ If you want to get in contact, please do so via: [ukraine-links@mailbox.org](mai
 
 # If You Need Help
 ## Travel
-- 🇬🇧 🇩🇪 🇺🇦 [Telegram group - arrivals from Ukraine in Berlin](https://t.me/ukraineberlinarrivalsupport) 
-- 🇬🇧 [Ukranian border crossing map](https://dpsu.gov.ua/en/map)
-- 🇺🇦 [Ukrainenow.org/refuge](https://www.ukrainenow.org/refuge)
+- [Telegram group - arrivals from Ukraine in Berlin](https://t.me/ukraineberlinarrivalsupport) 🇬🇧 🇩🇪 🇺🇦 (?)  
+- [Ukranian border crossing map](https://dpsu.gov.ua/en/map) 🇬🇧    
+- [Ukrainenow.org/refuge](https://www.ukrainenow.org/refuge) 🇺🇦    
 
 ## Accomodation
-- 🇬🇧 [Rooms offered in private homes (EU)](https://icanhelp.host/)
-- 🇬🇧 🇩🇪 🇺🇦 (?) [Telegram group: Private persons offering shelter (Berlin)](https://t.me/+pY4AEUY_0jZhMzQ0)
-- 🇬🇧 [Community Google sheet: Short term rooms available in private homes (Berlin)](https://docs.google.com/spreadsheets/d/1yc4aHGTkGnX3O5_hdvUK36iMGCL60NIr40NlwL4pMYA/edit#gid=0)
+- [Rooms offered in private homes (EU)](https://icanhelp.host/) 🇬🇧
+- [Telegram group: Private persons offering shelter (Berlin)](https://t.me/+pY4AEUY_0jZhMzQ0)🇬🇧 🇩🇪 🇺🇦 (?)
+- [Community Google sheet: Short term rooms available in private homes (Berlin)](https://docs.google.com/spreadsheets/d/1yc4aHGTkGnX3O5_hdvUK36iMGCL60NIr40NlwL4pMYA/edit#gid=0) 🇬🇧
 
 ## LGBT+
-- 🇺🇦 [LGBT Military](https://lgbtmilitary.org.ua/)
+- [LGBT Military](https://lgbtmilitary.org.ua/) 🇺🇦
 
 ## Children and Pregnant Women
-- [Professional support and holistic care for pregnant women and children](https://centerfordoulapathways.com/ukrainian-fundraiser/)
+- [Professional support and holistic care for pregnant women and children](https://centerfordoulapathways.com/ukrainian-fundraiser/) 🇬🇧
 
 ## Other Link / Information Collections
-- 🇺🇦 [Comprehensive Google document](https://docs.google.com/document/d/1ng3-JK_kuwS7CBlLiPEOlf_VoVkiUf-niBxqguRwxWM/edit)
+- [Comprehensive Google document](https://docs.google.com/document/d/1ng3-JK_kuwS7CBlLiPEOlf_VoVkiUf-niBxqguRwxWM/edit) 🇺🇦
 
 
 # If You Want To Help
