@@ -13,11 +13,13 @@ If you want to get in contact, please do so via: <a href="mailto:ukraine-links@m
 ## Travel
 Telegram group - arrivals from Ukraine in Berlin: <a href="https://t.me/ukraineberlinarrivalsupport">https://t.me/ukraineberlinarrivalsupport</a>
 
+Ukranian border crossing map: <a href="https://dpsu.gov.ua/en/map">https://dpsu.gov.ua/en/map</a>
+
 ## LGBT
 lgbtmilitary - <a href="https://lgbtmilitary.org.ua/">https://lgbtmilitary.org.ua/</a>
 
-## Other Link Collections
-Ukraine Help Berlin: <a href="https://linktr.ee/ukrainehelpberlin">https://linktr.ee/ukrainehelpberlin</a>
+## Other Link / Informmation Collections
+<a href="https://docs.google.com/document/d/1ng3-JK_kuwS7CBlLiPEOlf_VoVkiUf-niBxqguRwxWM/edit">Comprehensive Google document written in Ukranian</a>
 
 
 # If You Want To Help
@@ -25,3 +27,8 @@ Ukraine Help Berlin: <a href="https://linktr.ee/ukrainehelpberlin">https://linkt
 ## Accomodation
 <a href="https://wunderflats.com/page/ukraine/landlords-who-help-en">Wunderflats (Germany)</a>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScbNEpZ_wy63lRNiwWR7BXeEoH7VC4ulhI725Qc14JUutjH9Q/viewform">Private Google Form (Germany)</a>
+
+## Link Directories
+<a href="https://linktr.ee/voiceforukraine">Linktree: Voice For Ukraine</a> 
+<a href="https://linktr.ee/ukrainehelpberlin">Ukraine Help Berlin</a>
+
