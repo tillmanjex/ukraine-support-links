@@ -14,7 +14,7 @@ If you want to get in contact, please do so via: <a href="mailto:ukraine-links@m
 - Ukranian border crossing map: <a href="https://dpsu.gov.ua/en/map">https://dpsu.gov.ua/en/map</a>
 
 ## Accomodation
-- <a href="https://docs.google.com/spreadsheets/d/1yc4aHGTkGnX3O5_hdvUK36iMGCL60NIr40NlwL4pMYA/edit#gid=0">Community Google sheet, rooms available in private homes (Berlin)</a>
+- <a href="https://docs.google.com/spreadsheets/d/1yc4aHGTkGnX3O5_hdvUK36iMGCL60NIr40NlwL4pMYA/edit#gid=0">Community Google sheet: Short term rooms available in private homes (Berlin)</a>
 
 ## LGBT
 - LGBT Military - <a href="https://lgbtmilitary.org.ua/">https://lgbtmilitary.org.ua/</a>
