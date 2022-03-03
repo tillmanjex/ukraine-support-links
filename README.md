@@ -23,6 +23,9 @@ If you want to get in contact, please do so via: [ukraine-links@mailbox.org](mai
 ## LGBT+
 - 🇺🇦 [LGBT Military](https://lgbtmilitary.org.ua/)
 
+## Children and Pregnant Women
+- [Professional support and holistic care for pregnant women and children](https://centerfordoulapathways.com/ukrainian-fundraiser/)
+
 ## Other Link / Information Collections
 - 🇺🇦 [Comprehensive Google document](https://docs.google.com/document/d/1ng3-JK_kuwS7CBlLiPEOlf_VoVkiUf-niBxqguRwxWM/edit)
 
