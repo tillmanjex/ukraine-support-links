@@ -1,7 +1,7 @@
 # Ukraine Support Links
 This website is a collection links specific to helping people affected by the Russian invasion of Ukraine. 
 
-Although I check every link myself, I cannot take any liability for information / missinformation provided. Please use at your own discretion.        
+Although I check every link myself, I cannot take any liability for information provided. Please use at your own discretion.        
 I'm just collecting what I find / what's sent to me in the hope of creating a repository of useful information for referencing and sharing.  
 
 If you want to get in contact, please do so via: <a href="mailto:ukraine-links@mailbox.org">ukraine-links@mailbox.org</a>
