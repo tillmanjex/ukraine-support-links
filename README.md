@@ -1,5 +1,5 @@
 # Ukraine Support Links
-This website is a collection links specific to helping people affected by the Russian invasion of Ukraine. 
+This website is a collection of links specific to helping people affected by the Russian invasion of Ukraine. 
 
 Although I check every link myself, I cannot take any liability for information provided.    
 Please use at your own discretion.        
