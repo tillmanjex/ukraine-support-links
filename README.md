@@ -3,12 +3,12 @@ This website is a collection of links focussed on helping people affected by the
 
 Although I check every link myself, I cannot take any liability for information provided.    
 Please use at your own discretion.    
-    
+
 I'm just collecting what I find / what's sent to me in the hope of creating a repository of useful information for referencing and sharing.  
 
 If you want to get in contact, please do so via: [ukraine-links@mailbox.org](mailto:ukraine-links@mailbox.org) 
 
-[Перекладіть весь цей веб-сайт українською мовою за допомогою Google Translate.](http://translate.google.com/translate?js=n&sl=auto&tl=uk&u=https://tillmanjex.github.io/Ukraine-support-links/)
+[Перекладіть весь цей веб-сайт українською мовою за допомогою Google Translate.](http://translate.google.com/translate?js=n&sl=auto&tl=uk&u=https://tillmanjex.github.io/ukraine-support-links/)
 
 # If You Need Help
 ## Travel
