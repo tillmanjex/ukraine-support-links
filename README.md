@@ -1,6 +1,6 @@
 # Ukraine Support Links
 This website is a collection of links focussed on helping people affected by the Russian invasion of Ukraine.    
-The map next to the links shows what language the website is written in.  
+The map next to the links (🇬🇧 🇺🇦 🇩🇪 etc) signify the language which the linked website is written in.  
 
 Although I check every link myself, I cannot take any liability for information provided.    
 Please use at your own discretion.        
