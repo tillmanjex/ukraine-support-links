@@ -12,7 +12,9 @@ If you want to get in contact, please do so via: [ukraine-links@mailbox.org](mai
 
 # If You Need Help
 ## Travel
-- [Telegram group - arrivals from Ukraine in Berlin](https://t.me/ukraineberlinarrivalsupport) 🇬🇧 🇩🇪 🇺🇦 (?)  
+- [Telegram group: arrivals from Ukraine in Berlin](https://t.me/ukraineberlinarrivalsupport) 🇬🇧 🇩🇪 🇺🇦 (?)  
+- [Telegram group: Border Help](https://t.me/huiiivoiiine) 🇬🇧 🇺🇦
+- [Telegram group: Travel By Car](https://t.me/perevezite) 🇬🇧 🇺🇦
 - [Ukranian border crossing map](https://dpsu.gov.ua/en/map) 🇬🇧    
 - [Ukrainenow.org/refuge](https://www.ukrainenow.org/refuge) 🇺🇦    
 
@@ -30,6 +32,7 @@ If you want to get in contact, please do so via: [ukraine-links@mailbox.org](mai
 
 ## Other Link / Information Collections
 - [Comprehensive Google document](https://docs.google.com/document/d/1ng3-JK_kuwS7CBlLiPEOlf_VoVkiUf-niBxqguRwxWM/edit) 🇺🇦
+- [Google Doc: Aid In Poland](https://docs.google.com/document/d/1NT5j-f_WgvLepMhrrrtqgYXZHVyqamf2Pt2s8G78a7A/mobilebasic) 🇬🇧 🇺🇦
 
 
 # If You Want To Help
@@ -43,8 +46,8 @@ If you want to get in contact, please do so via: [ukraine-links@mailbox.org](mai
 
 ## Donation and Aid
 - [Humanitarian Aid Points (Berlin)](https://docs.google.com/document/d/16vbZTUPi4_SZ4YtaVZaZCucGqgaPoLxys6C1sphwVc8/edit)
-
+- [Save A Life: Financial Donation (Ukraine)](https://savelife.in.ua/en/donate/) 
+- [Red Cross (Ukraine)](https://redcross.org.ua/en/donate/)
 ## Other Link Directories
 - [Linktree: Voice For Ukraine](https://linktr.ee/voiceforukraine)
 - [Ukraine Help Berlin](https://linktr.ee/ukrainehelpberlin)
-
