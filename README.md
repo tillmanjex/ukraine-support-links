@@ -17,6 +17,7 @@ If you want to get in contact, please do so via: [ukraine-links@mailbox.org](mai
 - [Ukrainenow.org/refuge](https://www.ukrainenow.org/refuge) 🇺🇦    
 
 ## Accomodation
+- [Free accommodation offered by Sir Hotels (Berlin - Hamburg)](https://www.instagram.com/p/CarMIevNGq1/?utm_medium=copy_link) 🇬🇧
 - [Rooms offered in private homes (EU)](https://icanhelp.host/) 🇬🇧
 - [Telegram group: Private persons offering shelter (Berlin)](https://t.me/+pY4AEUY_0jZhMzQ0)🇬🇧 🇩🇪 🇺🇦 (?)
 - [Community Google sheet: Short term rooms available in private homes (Berlin)](https://docs.google.com/spreadsheets/d/1yc4aHGTkGnX3O5_hdvUK36iMGCL60NIr40NlwL4pMYA/edit#gid=0) 🇬🇧
