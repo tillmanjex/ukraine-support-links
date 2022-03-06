@@ -24,6 +24,9 @@ If you want to get in contact, please do so via: [ukraine-links@mailbox.org](mai
 - [Telegram group: Private persons offering shelter (Berlin)](https://t.me/+pY4AEUY_0jZhMzQ0)🇬🇧 🇩🇪 🇺🇦 (?)
 - [Community Google sheet: Short term rooms available in private homes (Berlin)](https://docs.google.com/spreadsheets/d/1yc4aHGTkGnX3O5_hdvUK36iMGCL60NIr40NlwL4pMYA/edit#gid=0) 🇬🇧
 
+## Government
+- [European Commision Temporary Residence & Work Permits](https://ec.europa.eu/commission/presscorner/detail/uk/IP_22_1469)
+
 ## LGBT+
 - [LGBT Military](https://lgbtmilitary.org.ua/) 🇺🇦
 
