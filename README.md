@@ -1,3 +1,13 @@
+
+
+
+    <ul>
+        {% for item in site.data.main_nav.pages %}
+        <li><a href="{{ item.url }}">{{item.title}}</a></li>
+        {% endfor %}
+    </ul>
+
+
 # Ukraine Support Links
 This website is a collection of links focussed on helping people affected by the Russian invasion of Ukraine. The map next to the links (🇬🇧 🇺🇦 🇩🇪 etc) signify the language which the linked website is written in.  
 

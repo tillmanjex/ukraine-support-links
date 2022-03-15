@@ -8,9 +8,11 @@
     <title>Ukranian Support Links</title>
 </head>
 <header>
-    {% for item in site.data.main_nav.pages %}
-    <li><a href="{{ item.url }}">{{item.title}}</a></li>
-    {% endfor %}
+    <ul>
+        {% for item in site.data.main_nav.pages %}
+        <li><a href="{{ item.url }}">{{item.title}}</a></li>
+        {% endfor %}
+    </ul>
 </header>
 
 <body>
