@@ -1,5 +1,5 @@
 layout: page
 title: "Media Posts"
-permalink: /media-posts
+permalink: /media-posts/
 
 Test
