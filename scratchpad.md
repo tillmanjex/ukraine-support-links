@@ -1,0 +1,1 @@
+Open temmplate folder: open /Users/tillman/.local/share/gem/ruby/3.1.0/gems/
